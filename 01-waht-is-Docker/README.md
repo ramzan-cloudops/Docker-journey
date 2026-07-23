@@ -23,3 +23,4 @@ A text script containing instructions to build a Docker image.
 
 
 <img width="463" height="157" alt="image" src="https://github.com/user-attachments/assets/9e92a180-0de3-4d9b-a1e2-42034ea994f7" />
+                          Docker Cotainer Creation Flow 
